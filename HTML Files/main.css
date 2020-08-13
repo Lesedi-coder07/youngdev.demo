@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Lato:wght@300&family=Sriracha&display=swap');
+
+
+  
+  
+  i{
+      margin-left: 14cm;
+  }
+
+  .collaps{
+margin-top: 2cm;
+margin-left: 14cm;
+
+  }
+
+.date{
+  
+    font-family: 'Pacifico', cursive;
+}  
+
+.tit{
+    text-align: center ;
+    font-family: 'Bungee Shade', cursive;
+color: White;
+font-size: 30px;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Recursive:wght@800&display=swap');
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+
+.container{
+  font-family: 'Courier New', Courier, monospace;
+  color: aliceblue;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+  width: 100%;
+  height:fit-content;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+border-right: #fff;
+ 
+}
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #fff;
+    color: black;
+    text-decoration: none;
+  }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+
+
+.bg{
+  /* The image used */
+  
+
+  /* Full height */
+  height: 50%; 
+opacity: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+
+
+.motivation{
+  color: #111;
+  margin-top: 2cm;
+  
+}
+
+
+.db{
+  /* The image used */
+  background-image: url("Pictures/pexels-pixabay-270366.jpg");
+
+  /* Full height */
+  height: 50%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+
+
+
+
+.card{
+  color:#fffff1;
+  float: right;
+}
+
+.nav-bar-course-page{
+  color: #111;
+}
+
+.nav-top{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-google {
+  background: red;
+  color: white;
+}
+
+.fa-envelope {
+  background: burlywood;
+  color: white;
+}
+
+.fa-phone {
+  background: yellowgreen;
+  color: white;
+  align-content: center;
+}
+
+
+
+.content-fb{
+  padding: 10px;
+  border-style: outset;
+  border-color: #3B5998;
+}
+
+
+
+.content-google{
+  padding: 10px;
+  border-style: outset;
+  border-color: rgb(245, 36, 36);
+}
+
+
+
+.content-whatsapp{
+  padding: 10px;
+  border-style: outset;
+  border-color: green;
+}
+
+
+
+.section2{
+  background: #000;
+  color: #fff;
+  text-align: center;
+}
+
+.section2  h2 {
+  text-align: center;
+}
+
+.section2-img{
+  float: right;
+  background: #000;
+}
+
+.section3{
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+
+.section4{
+  background: cornflowerblue;
+  color: #fff;
+  text-align: center;
+}
+
+.contact-page{
+  font-family: 'Lato', sans-serif;
+}
+
+
+.content-phone{
+  padding: 10px;
+  border-style: outset;
+  border-color: rgb(0, 128, 111);
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+
+
+
+.submit{
+  background-color: #333; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#demo{
+  margin-top: 0cm ;
+}
+
+
+.carousel-inner{
+  align-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  text-align: center;
+}
+
+img{ align-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+
+}
+
+.nav-link{
+  float: right;
+  margin-right:2cm;
+  border: none;
+  border-right: black 1cm;
+}
